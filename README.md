@@ -1,2 +1,1 @@
-# course-system-distribution
-Course NC of System Distribution
+# Course NC of Distributed System
