@@ -1,1 +1,7 @@
-# Course NC of Distributed System
+
+# EXERCISES DISTRIBUTED SYSTEM
+
+    - Exercises Distributed System
+
+
+## TABLE OF CONTENT
